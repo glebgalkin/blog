@@ -1,0 +1,1 @@
+document.getElementById("love").style.color = "blue";
